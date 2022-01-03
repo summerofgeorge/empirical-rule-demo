@@ -1,2 +1,3 @@
-# empirical-rule-demo
+# Empirical rule demo
+
 Resources for empirical rule demo
